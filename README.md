@@ -4,12 +4,12 @@ module-2 stock analysis VBA project
 
 ### Overview of Project: Explain the purpose of this analysis.
 
-The purpose of this analysis was to analyze various stocks from 2017 and 2018, consolidate volumes and find yearly returns of each stock and show how each stock has performed in the current year as compared to previous year in terms of volumes and returns. 
+The purpose of this analysis was to analyze various stocks from 2017 and 2018, consolidate volumes and find yearly returns of each stock and show how each stock has performed in the current year (2018) as compared to previous year (2017) in terms of volumes and returns. 
 ### Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 
 
-### Summary: In a summary statement, address the following questions.
+### Summary: 
 
 #### 1.	What are the advantages or disadvantages of refactoring code: 
 
