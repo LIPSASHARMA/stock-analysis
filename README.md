@@ -5,7 +5,7 @@ module-2 stock analysis VBA project
 ### Overview of Project: Explain the purpose of this analysis.
 
 The purpose of this analysis was to analyze various stocks from 2017 and 2018, consolidate volumes and find yearly returns of each stock and show how each stock has performed in the current year (2018) as compared to previous year (2017) in terms of volumes and returns. 
-### Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+### Results: 
 
 #### stock performance 2017 vs 2018
 
