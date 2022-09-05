@@ -13,7 +13,7 @@ The stocks in 2017 did really well as compared to 2018. There were heavy returns
 
 ![ScreenShot](https://github.com/LIPSASHARMA/stock-analysis/blob/9a445f3316d145cd907e4d7c20879756df73bdaa/Resources/VBA_Challenge_2017.png)
 
-The 
+The 2018 is kind of opposite to what we have seen in 2017. All the stocks gave a negative return except ENPH and RUN stocks, which gave significant returns 0f 81% and 84% respectively. You can see the details in the screenshot below.
 
 ![ScreenShot](https://github.com/LIPSASHARMA/stock-analysis/blob/9a445f3316d145cd907e4d7c20879756df73bdaa/Resources/VBA_Challenge_2018.png)
 
